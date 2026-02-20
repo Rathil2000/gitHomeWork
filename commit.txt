@@ -1,1 +1,2 @@
 after commit revert the commit hardly
+i want to undo above code
